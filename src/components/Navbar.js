@@ -10,7 +10,8 @@ const styles = {
     navStyle: {
         display:'flex',
         justifyContent: 'space-around',
-        border: 'solid gray 2px'
+        border: 'solid gray 2px',
+        backgroundColor:'green'
     }
 }
 export default  Navbar

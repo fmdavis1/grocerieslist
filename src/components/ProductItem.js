@@ -7,7 +7,7 @@ const ProductItem = (props) => {
             <h3>{item}</h3>
             <h3>{brand}</h3>
             <h3>{units}</h3>
-            <h2> {quantity}</h2>
+            <h3> {quantity}</h3>
           </div> 
       )
   }
