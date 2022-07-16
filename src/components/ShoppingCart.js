@@ -3,7 +3,7 @@ const ShoppingCart = (props) => {
     return (
     <div>
     
-        <h1>Shopping Cart</h1>
+        {/* <h1>Shopping Cart</h1> */}
         {
             props.shoppingCartItems.map((item, idx) => <ProductItem product={item} key={idx}/>)
         }

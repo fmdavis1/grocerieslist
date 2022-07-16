@@ -3,7 +3,7 @@ const groceryItems = [{
     brand :'Mahatma',
     units: 'ounces',
     quantity: 1,
-    isPurchased: false
+    isPurchased: true
   },
   {
     item: 'bread',
